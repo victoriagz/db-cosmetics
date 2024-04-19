@@ -1,4 +1,5 @@
-#  💄💄 API RESTful de Cosméticos 💄💄
+
+<h1 align="center">💄💄 API RESTful de Cosméticos 💄💄</h1>
 
 Esta API proporciona un conjunto de endpoints para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre una base de datos de productos cosméticos. Utiliza Node.js, Express.js y MySQL para la implementación del servidor y la gestión de la base de datos.
 
