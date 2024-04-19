@@ -34,7 +34,7 @@ PORT=3002
 ```
 4. Inicia el servidor:
 ```
-npm start
+npm run dev
 ```
 
 
