@@ -106,7 +106,7 @@ app.put("/cosmetics/:id", async (req, res) => {
   });
 });
 
-app.delete("/cosmetics", async (req, res) => {
+app.delete("/cosmetics/:id", async (req, res) => {
   const idCosmetic = req.params.id;
 
   const connection = await getDBConnection();
